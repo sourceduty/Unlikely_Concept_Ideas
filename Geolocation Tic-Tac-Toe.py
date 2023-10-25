@@ -1,3 +1,7 @@
+# Geolocation Tic-Tac-Toe is a variant of the classic Tic-Tac-Toe game that incorporates geolocation features. 
+# In this game, players place their marks on a grid representing a geographical map. 
+# To implement this game, you'll need to use a geographic library to interact with maps. 
+
 import folium
 
 # Create a Tic-Tac-Toe board on a map
