@@ -24,20 +24,20 @@ Below is a list of software ideas and concepts that are very possible to develop
 
 9. Sequential_Uploads: File upload queue.
 
-10. School_Research_Subject_Suggestion
+10. ~~School_Research_Subject_Suggestion~~
 
-11. Question_Prediction
+12. Question_Prediction
 
-12. Geolocation Tic-Tac-Toe
+13. Geolocation Tic-Tac-Toe
 
-13. Optimal Video Frame Extractor
+14. Optimal Video Frame Extractor
 
-14. Direct_Message_Summary
+15. Direct_Message_Summary
 
-15. Collaborative Social Media Accounts
+16. Collaborative Social Media Accounts
 
-16. Lyrical similarity: find similar lyrics
+17. Lyrical similarity: find similar lyrics
 
-17. Steam_Gaming_Time_Limit
+18. Steam_Gaming_Time_Limit
 
 #
