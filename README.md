@@ -28,7 +28,7 @@ Below is a list of software ideas and concepts that are very possible to develop
 
 12. Question_Prediction
 
-13. Geolocation Tic-Tac-Toe
+13. ~~Geolocation Tic-Tac-Toe~~
 
 14. Optimal Video Frame Extractor
 
