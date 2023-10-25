@@ -36,7 +36,7 @@ Below is a list of software ideas and concepts that are very possible to develop
 
 16. Collaborative Social Media Accounts
 
-17. Lyrical similarity: find similar lyrics
+17. ~~Lyrical similarity: find similar lyrics~~
 
 18. Steam_Gaming_Time_Limit
 
