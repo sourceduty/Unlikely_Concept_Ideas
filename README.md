@@ -38,4 +38,8 @@ Below is a list of software ideas and concepts that are very possible to develop
 
 17. ~~Steam_Gaming_Time_Limit~~
 
+18. Facebook_Messenger_Screenshots
+
+19. Traffic Sign Location Optimizer
+
 #
