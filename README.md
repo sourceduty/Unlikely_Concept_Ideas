@@ -42,4 +42,8 @@ Below is a list of software ideas and concepts that are very possible to develop
 
 19. Traffic Sign Location Optimizer
 
+20. YouTube_Comment_Profile_Ranking
+
+21. Industry_Event_Calendar
+
 #
