@@ -30,14 +30,12 @@ Below is a list of software ideas and concepts that are very possible to develop
 
 13. ~~Geolocation Tic-Tac-Toe~~
 
-14. Optimal Video Frame Extractor
+14. Direct_Message_Summary
 
-15. Direct_Message_Summary
+15. Collaborative Social Media Accounts
 
-16. Collaborative Social Media Accounts
+16. ~~Lyrical similarity: find similar lyrics~~
 
-17. ~~Lyrical similarity: find similar lyrics~~
-
-18. Steam_Gaming_Time_Limit
+17. Steam_Gaming_Time_Limit
 
 #
