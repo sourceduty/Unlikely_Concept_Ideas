@@ -8,7 +8,7 @@ Below is a list of software ideas and concepts that are very possible to develop
 
 1. ~~File_Name_Suggestion: Suggest file title name for text, audio, video, and code files.~~
    
-[Rename]([https://chat.openai.com/gpts#](https://chat.openai.com/g/g-C7Wqfx4P0-rename))
+[Rename]([https://chat.openai.com/gpts#](https://chat.openai.com/g/g-C7Wqfx4P0-rename)
 
 3. Image_Sound: apply sounds to images .mp4
 
