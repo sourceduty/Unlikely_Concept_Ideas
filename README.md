@@ -6,7 +6,7 @@ Below is a list of software ideas and concepts that are very possible to develop
 
 #
 
-1. File_Name_Suggestion: Suggest file title name for text, audio, video, and code files.
+1. ~~File_Name_Suggestion: Suggest file title name for text, audio, video, and code files.~~
 
 2. Image_Sound: apply sounds to images .mp4
 
@@ -16,9 +16,9 @@ Below is a list of software ideas and concepts that are very possible to develop
 
 5. Remote Virtual Consumer
 
-6. Video_Moment_Finder: Search through videos for moments.
+6. ~~Video_Moment_Finder: Search through videos for moments~~
 
-7. Sequential_Search_Terms
+7. ~~Sequential_Search_Terms~~
 
 8. Playlist_Progress_Bar
 
@@ -26,11 +26,11 @@ Below is a list of software ideas and concepts that are very possible to develop
 
 10. ~~School_Research_Subject_Suggestion~~
 
-12. Question_Prediction
+12. ~~Question_Prediction~~
 
 13. ~~Geolocation Tic-Tac-Toe~~
 
-14. Direct_Message_Summary
+14. ~~Direct_Message_Summary~~
 
 15. Collaborative Social Media Accounts
 
