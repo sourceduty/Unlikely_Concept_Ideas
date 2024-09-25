@@ -58,4 +58,5 @@ YouTube_Comment_Profile_Ranking
 
 Industry_Event_Calendar
 
-#
+***
+ℹ️ This information is free and open-source; anyone can redistribute it and/or modify it.
