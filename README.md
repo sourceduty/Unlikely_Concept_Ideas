@@ -1,6 +1,6 @@
-💡 Unlikely_Concept_Ideas
+> Unlikely_Concept_Ideas
 
-![Banner](https://github.com/sourceduty/Unlikely_Concept_Ideas/assets/123030236/bbd75381-afa1-4720-b353-ef299a983f6f)
+#
 
 Below is a list of software ideas and concepts that are very possible to develop but also highly unlikely to be developed due to their complexity. These ideas have been published and shared as examples created by Sourceduty.
 
